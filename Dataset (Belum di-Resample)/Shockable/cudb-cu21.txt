@@ -1,4 +1,4 @@
-   Elapsed_time	ECG
+Elapsed_time	ECG
        0.000	 -1.363
        0.004	 -1.610
        0.008	 -1.945
